@@ -1,1 +1,1 @@
-Practicing git platform in alx
+This is my firt git platform Practice in alx
