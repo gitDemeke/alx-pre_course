@@ -1,1 +1,1 @@
-Practicing git platform in alx
+The Practicing of git platform in alx
